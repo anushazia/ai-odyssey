@@ -14,7 +14,7 @@ For those interested in seeing this blog live, you can deploy it using GitHub Pa
 
 1. Fork or clone this repository.
 2. Enable GitHub Pages in the repository settings by choosing the main branch as the source.
-3. Access the blog at `{yourusername}.github.io`.
+3. Access the blog at `anushazia.github.io`.
 
 ## Feedback and Contributions
 
